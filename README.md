@@ -1,0 +1,2 @@
+# Terminal-Fight-v0.1--Linux-Only-
+A simple RPG game, with a terminal-based user interface (not ncurses). The player is able to find and use items, fight enemies, interact with non-player characters, gain experience and improve his or her abilities. The maps are dynamically loaded, and follow XML-like logic that allows users to create their own ones. Maps can also be chained into levels. The code needs to be refactored, and it is probably a good idea to convert the Maps to straight XML.
