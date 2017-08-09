@@ -26,6 +26,7 @@
 #include <climits>     // for INT_MAX
 #include <cfloat>      // for DOUBLE_MAX, etc.
 #include <cstdarg>     // for functions with variable # of arguments
+#include<unistd.h>
 
 using namespace std;
 
