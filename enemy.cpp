@@ -1,7 +1,7 @@
 /*
  * enemy.cpp
- *
- *  Another comment
+ *  
+ *  These have their own AI
  *  Created on: Dec 5, 2010
  *  Author: Nikola Chonkov
  */
