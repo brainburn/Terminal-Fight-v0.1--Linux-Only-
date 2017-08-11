@@ -2,7 +2,7 @@
  * enemy.cpp
  *
  *  Created on: Dec 5, 2010
- *      Author: Nikola Chonkov
+ *  Author: Nikola Chonkov
  */
 
 #include "enemy.hpp"
